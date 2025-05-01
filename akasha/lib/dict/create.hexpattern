@@ -1,0 +1,7 @@
+/// Creates empty dictionary
+/// @return dictionary Dictionary
+{
+    []
+    []
+}
+
